@@ -38,3 +38,9 @@ To analyze revenue, product performance, and regional sales trends to support bu
 
 ## Author
 Hamzat Afe Isede
+
+## 🔗 Related Projects
+
+- Customer Churn Prediction
+- Sales Forecasting (Time Series)
+- Customer Segmentation
