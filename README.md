@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
 # Sales Dashboard (Power BI)
 
 ## Overview
